@@ -1,36 +1,30 @@
-# symbiotic-agency-trilingual-writing
-Official repository for “Beyond AI Assistance: Symbiotic Agency in GenAI-Mediated Trilingual Academic Writing.” Contains datasets, coding schemes, and figures.
-# Beyond AI Assistance: Symbiotic Agency in GenAI-Mediated Trilingual Academic Writing
+# Symbiotic Agency in Trilingual Writing
 
-This repository contains the supplementary materials, datasets, coding frameworks, and research figures for the study titled **"Beyond AI Assistance: Symbiotic Agency in GenAI-Mediated Trilingual Academic Writing."**
+This repository contains the dataset, figures, and manuscript for the study on **Symbiotic Agency** in AI-assisted trilingual writing contexts.
 
-## Overview
-This research investigates the complex dynamics of Human-AI collaboration in trilingual academic contexts (Azerbaijani, Persian, and English). We explore the concept of **Symbiotic Agency**, where the scholar and GenAI engage in a recursive loop of cognitive scaffolding, epistemic monitoring, and linguistic refinement.
+## 📊 Visual Resources (Figures)
 
-## Repository Structure
-The repository is organized as follows:
+Below are the key figures representing the theoretical framework and empirical findings of this study.
 
-*   `/data`: Contains structured CSV files for study participants, prompt logs, and coding schemes.
-    *   `Study_Data_Final_Package__Prompt_Logs.csv`
-    *   `Study_Data_Final_Package__Coding_Scheme.csv`
-*   `/figures`: High-resolution PNG files of the research models, including the Symbiotic Agency Logic Model and the Fluency–Authority Trap visualization.
-*   `/manuscript`: LaTeX source files for the full article and supplementary sections.
+| Figure | Description | Preview |
+| :--- | :--- | :--- |
+| **Graphical Abstract** | Conceptual overview of the study | ![Abstract](data/abstract.png) |
+| **Figure 4** | Distribution of Prompting Strategies | ![Fig 4](data/figure4_prompt_distribution.png) |
+| **Figure 5** | AI Functions Distribution | ![Fig 5](data/figure5_ai_functions.png) |
+| **Figure 6** | Monitoring vs. Dependency Correlation | ![Fig 6](data/figure6_monitoring_dependency.png) |
+| **Figure 7** | Scaffolding Types Matrix | ![Fig 7](data/figure7_scaffolding_types.png) |
 
-## Methodology
-The study employed an 8-month longitudinal approach with trilingual scholars. Our analysis includes:
-- Writing-aloud sessions
-- Prompt-log analysis (over 400 prompts)
-- Stimulated recall interviews
+---
 
-## Citation
-If you use the data, figures, or methodology presented in this repository, please cite our work as follows:
+## 📁 Repository Structure
 
-> [Author(s)]. (Year). Beyond AI Assistance: Symbiotic Agency in GenAI-Mediated Trilingual Academic Writing. *[Journal Name/Preprint Service]*. [DOI Link]
+- `/data`: Contains all raw datasets (CSV/Excel) and high-resolution figures.
+- `/manuscript`: LaTeX source files for the research article.
+- `/supplementary`: Additional coding frameworks and methodology details.
 
-## License
-This repository and its contents are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+## 🛠 How to Use
+1. Refer to `data/Journal_Ready_Study_Data.xlsx` for the complete dataset.
+2. The main manuscript can be compiled from `Full_Research_Article.tex`.
 
-## Contact
-For inquiries regarding the dataset or collaboration, please contact:
-- [Your Name/Email]
-- [Institutional Affiliation]
+---
+*Note: This repository is part of a Q1 journal submission process.*
