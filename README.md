@@ -42,7 +42,7 @@ The datasets and supplementary methods are organized as follows:
 If you use this dataset or the methodology in your research, please cite the following:
 
 **For the repository:**
-> [Author Last Name], [Author First Name]. (2026). *Symbiotic Agency in Trilingual Writing* [Data set]. GitHub. https://github.com/Pegi1727/symbiotic-agency-trilingual-writing
+> [Merrikhi], [Pegah]. (2026). *Symbiotic Agency in Trilingual Writing* [Data set]. GitHub. https://github.com/Pegi1727/symbiotic-agency-trilingual-writing
 
 **For the research article (if applicable):**
 > [Merrikhi], [Pegah]. (2026). Title of your article. *BJTL*, Volume(Issue). DOI: [Insert DOI if available]
