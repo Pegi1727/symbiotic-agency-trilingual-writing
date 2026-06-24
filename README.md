@@ -25,6 +25,18 @@ Below are the key figures representing the theoretical framework and empirical f
 ## 🛠 How to Use
 1. Refer to `data/Journal_Ready_Study_Data.xlsx` for the complete dataset.
 2. The main manuscript can be compiled from `Full_Research_Article.tex`.
+## 📂 Data & Methodology
+
+The datasets and supplementary methods are organized as follows:
+
+- **Raw Data Directory (`/raw-data`):**
+  - `Journal_Ready_Study_Data.xlsx`: Main integrated dataset.
+  - `Journal_Ready_Study_Data_Table_1_-_Participants.csv`: Demographic and profile data.
+  - `Journal_Ready_Study_Data_Table_2_-_AI_Interactions.csv`: Prompt interaction logs.
+  - `Journal_Ready_Study_Data_Table_3_-_Symbiotic_Model.csv`: Metrics for the symbiotic agency model.
+
+- **Manuscript Resources (`/manuscript`):**
+  - `methods_discussion_sections.tex`: LaTeX source files for methodology and discussion sections.
 
 ---
 *Note: This repository is part of a Q1 journal submission process.*
