@@ -41,22 +41,7 @@ The datasets and supplementary methods are organized as follows:
 
 If you use this dataset or the methodology in your research, please cite the following:
 
-**For the repository:**
-> [Merrikhi], [Pegah]. (2026). *Symbiotic Agency in Trilingual Writing* [Data set]. GitHub. https://github.com/Pegi1727/symbiotic-agency-trilingual-writing
 
-**For the research article (if applicable):**
-> [Merrikhi], [Pegah]. (2026). Title of your article. *BJTL*, Volume(Issue). DOI: [Insert DOI if available]
-
----
-*Alternatively, you can use the BibTeX format:*
-```bibtex
-@misc{symbiotic_agency_2026,
-  author = {[Your Last Name], [Your First Name]},
-  title = {Symbiotic Agency in Trilingual Writing},
-  year = {2026},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/Pegi1727/symbiotic-agency-trilingual-writing}}
 }
 
 ---
